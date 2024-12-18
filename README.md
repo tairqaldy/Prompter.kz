@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-Qaldy_AI_License-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/prompter.kz.svg) //добавить позже
+![GitHub Issues](https://img.shields.io/github/issues/yourusername/prompter.kz.svg)
 ![GitHub Forks](https://img.shields.io/github/forks/yourusername/prompter.kz.svg)
 ![GitHub Stars](https://img.shields.io/github/stars/yourusername/prompter.kz.svg)
 
